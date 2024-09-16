@@ -2,4 +2,11 @@ body{
     text-align: center;
     background-color: lightblue;
     font-family: 'Courier New', Courier, monospace;
+    color: brown;
+}
+
+#cabe{
+    background-color: orange;
+    text-align: center;
+    text-decoration: solid;
 }
